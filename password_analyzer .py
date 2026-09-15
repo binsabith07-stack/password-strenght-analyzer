@@ -96,5 +96,4 @@ else:
 
 
 print("\nSuggested stronger password:")
-print(suggest_password())# Auto detect text files and perform LF normalization
-* text=auto
+print(suggest_password())
